@@ -8,15 +8,17 @@ Python 3.9.7
 
 
 ## Used imports
+```
 matplotlib
 numpy
 pandas
 sklearn
 time
 torch
-
+```
 
 ## Installed packages while running the code
+```
 absl-py==1.4.0
 anaconda-client==1.11.0
 anaconda-navigator==2.3.2
@@ -103,7 +105,7 @@ win-unicode-console==0.5
 wincertstore==0.2
 zict==2.1.0
 zstandard==0.18.0
-
+```
 
 ## Code structure
 Please start 'main.py' for execution. The required functions are automatically imported from 'data_import.py', 'net.py', 'training.py', 'gen_seq_cpu' and 'reconstruction'. 
